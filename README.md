@@ -8,7 +8,8 @@
 <p>
 Curious learner. Always Googling something, most recently how many of an octopuses' tentacles  are its arms vs. its legs? (Answer: 6 arms, 2 legs. 🤯) My professional experience has always been within ops, but have always actively researched and tinkered with software in my free time. I finally decided to make the change to pursue my passion within software engineering and completed my software engineering degree. I am interested in new technologies and have a passion for mastering my craft. I commit to always learning and never being content with my knowledge.
 </p>
-<p>My primary language(s) are Java, Kotlin, and JavaScript. I have knowledge of ReactJS, Redus, Android Development, JavaFX, Java desktop applications using JavaFX and jPackage to compile executable applications, SQL, MongoDB, Room, and Postgres.</p>
+<p>My primary language(s) are Java, Kotlin, and JavaScript. I have knowledge of ReactJS, Redux, Android Development, JavaFX, Java desktop applications using JavaFX and jPackage to compile executable applications, SQL, MongoDB, Room, and Postgres.</p>
+<p>☁️ I have experience with deploying and working within AWS, S3, DigitalOcean, and (some) Azure cloud solutions. </p>
 </div>
 <div></div>
 <!--
