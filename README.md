@@ -4,9 +4,12 @@
    Hi, I'm Caymen! 
   </h1>
   <h4>A little about me?</h4>
-<p> 📍 Nashville, TN (Open To Relocation) <br>
-🎓 WGU Alumn, B.S. Software Engineering. <br> <br>
-Curious learner. Always Googling something, most recently how many of an octopuses' tentacles  are its arms vs. its legs? (Answer: 6 arms, 2 legs. 🤯) My professional experience has always been within operations, and I have always actively researched and tinkered with software in my free time. I finally decided to make the change to pursue my passion within software engineering and completed my software engineering degree. I am interested in new technologies and have a passion for mastering my craft. I commit to always learning and never being content with my knowledge.</p>
+<p> 📍 Nashville, TN (Open To Relocation) </p>
+<p>🎓 WGU Alumn, B.S. Software Engineering. </p>
+<br>
+<p>
+Curious learner. Always Googling something, most recently how many of an octopuses' tentacles  are its arms vs. its legs? (Answer: 6 arms, 2 legs. 🤯) My professional experience has always been within ops, but have always actively researched and tinkered with software in my free time. I finally decided to make the change to pursue my passion within software engineering and completed my software engineering degree. I am interested in new technologies and have a passion for mastering my craft. I commit to always learning and never being content with my knowledge.
+</p>
 </div>
 <div></div>
 <!--
