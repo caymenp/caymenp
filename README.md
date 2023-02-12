@@ -4,7 +4,7 @@
    Hi, I'm Caymen! 
   </h1>
   <h4>A little about me?</h4>
-<p>WGU Alum, B.S. Software Engineering. I am an advid and curious learner. Always Googling something, most recently how many of an octupuses tenticals are its arms vs. its feet?.</p>
+<p>🎓 WGU Alum, B.S. Software Engineering. <br> I am an advid and curious learner. Always Googling something, most recently how many of an octupuses tenticals are its arms vs. its feet?.</p>
 </div>
 <div></div>
 <!--
