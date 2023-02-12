@@ -4,6 +4,6 @@
    Hi, I'm Caymen! 
   </h1>
 </div>
-<title>A Little About Me? Sure!</title>
+<h4>A little about me? Sure! 😉</h4>
 <!--
 **caymenp/caymenp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
